@@ -1,7 +1,21 @@
 ---
 title: "Courtney"
 ---
+##Summary
 
 I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
 I work with [Professor Lawerence Barsalou](http://barsaloulab.org/lab-members/lawrence-barsalou/)
+
+#### Research Project
+
+I am currently working on a project looking at situated predictors of hair pulling in individuals with hair pulling.
+
+####Research Interests
+I am interested in researching body-focussed repetitive behaviours (BFRB).
+For more info click [here](research_interests.html)
+
+####Background
+ * Undergraduate at University of Glasgow 
+ * Psychology with honours
+      * Achieved first

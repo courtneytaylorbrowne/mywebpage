@@ -6,4 +6,7 @@ output:
     self_contained: no  
     theme: flatly  
 navbar:  
-  title: "Courtney"
+  title: "About Me"
+  left:
+    - text: "Research Interests"
+      href: research_interests.html

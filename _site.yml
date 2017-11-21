@@ -1,12 +1,17 @@
-name: "Courtney's Demo"  
+name: "My Webpage"  
 author: "Courtney Taylor Browne"  
 output_dir: "docs"  
 output:  
   html_document:  
     self_contained: no  
-    theme: flatly  
+    theme: cosmo
+    css: style.css
 navbar:  
-  title: "About Me"
-  left:
-    - text: "Research Interests"
-      href: research_interests.html
+  title: "Courtney"
+  right:
+    - text: "About"
+      icon: fa-home
+      href: index.html
+    - text: "Projects"
+      icon: fa-briefcase
+      href: projects.html

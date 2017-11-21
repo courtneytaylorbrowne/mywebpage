@@ -1,13 +1,32 @@
 ---
-title: "Courtney"
+title: "Hello..."
 ---
-##Summary
-
-I am a postgraduate student in the University of Glasgow's
+<img src="images/me.jpg"
+  style="width: 35%;
+         float: right;
+         padding-left: 10px;">
+         
+My name is Courtney and I am a postgraduate student in the University of Glasgow's
 [Institute of Neuroscience and Psychology](http://www.gla.ac.uk/researchinstitutes/neurosciencepsychology/).
-I am currently working on research with [Professor Lawerence Barsalou](http://barsaloulab.org/lab-members/lawrence-barsalou/)
+I am currently working towards my MSc in Research Methods of Psychological Science with  [Professor Lawerence Barsalou](http://barsaloulab.org/lab-members/lawrence-barsalou/). For more information on our current research project click [here](projects.html).
 
-#### Research Project
+## Background
+I completed my BSc Hons Psychology at the University of Glasgow in 2017 and achieved a First. Throughout my undergraduate degree, I developed a broad scope of knowledge for psychology. I also developed more detailed knowledge in areas of interest of to me, particularly clinical psychology. 
 
-I am currently working on a project looking at situated predictors of hair pulling in individuals with hair pulling. This involves two studies, the first of which aims to generate norms of hair pulling situations. The second will look at predictors of hair pulling, generating group and individual regression models, with the expectation that the individual level regression models will explain more of the variance than the group level ones.
+I chose to return to Glasgow University as a postgraduate to obtain the MSc in Research Methods of Psychological Science. This has allowed be to further develop and hone my research skills as well improving  my fluency with R coding. It has also given me the platform to conduct research in a field I am passionate about.
+
+##Research Interests
+
+* Clinical Psychology
+    * Body-focused repetitive behaviour (BFRB)
+    * Shame experienced in mental health conditions
+    * Dementia
+* Health Pyschology
+    * Healthy eating
+    * Mindfulness
+    * Stress Reduction
+
+##Contact
+<i class="fa fa-envelope" aria-hidden="true"></i>  2073016t@student.gla.ac.uk
+
 

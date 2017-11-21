@@ -1,0 +1,28 @@
+p {
+    font-family: verdana;
+    font-size: 16px;
+}
+
+a:link {
+    color: #0094DE;
+    text-decoration: none;
+
+
+}
+
+a:visited {
+        text-decoration: none;
+color: #0094DE;
+
+}
+
+a:hover {
+text-decoration: underline;
+color: #DD127B;
+
+}
+
+.navbar-brand
+{
+  font-size: 40px;
+}

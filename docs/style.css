@@ -3,6 +3,10 @@ p {
     font-size: 16px;
 }
 
+li {
+  font-size: 18px;
+}
+
 a:link {
     color: #0094DE;
     text-decoration: none;

@@ -15,7 +15,6 @@ As part of my final year project in my undergraduate degree, I conducted researc
 ##Interesting Papers
 If you would like to read more research about BFRBs I would recommend the follwing two as a starting point:
 
-* Woods, D. W., Flessner, C. A., Franklin, M. E., Keuthen, N. J., Goodwin, R. D., Stein, D. J., & Walther, M. R. (2006). [The Trichotillomania impact project (TIP)](https://www.med.upenn.edu/ctsa/assets/user-content/documents/WoodsFranklin_TIP_2006.pdf). The Journal of Clinical Psychiatry, 67(12), 1877 - 1888. 
+* Woods, D. W., Flessner, C. A., Franklin, M. E., Keuthen, N. J., Goodwin, R. D., Stein, D. J., & Walther, M. R. (2006). [The Trichotillomania impact project (TIP)](https://www.med.upenn.edu/ctsa/assets/user-content/documents/WoodsFranklin_TIP_2006.pdf). The Journal of Clinical Psychiatry, 67(12), 1877-1888. 
 
-* Tucker, B. T. P., Woods, D. W., Flessner, C. A., Franklin, S. A., & Franklin, M. E. (2011). [The skin picking impact project: Phenomenology, interference, and treatment utilization of pathological skin picking in a population-based sample](http://www.sciencedirect.com/science/article/pii/S0887618510001714). Journal of Anxiety Disorders, 25(1), 88 - 95.
-
+* Tucker, B. T. P., Woods, D. W., Flessner, C. A., Franklin, S. A., & Franklin, M. E. (2011). [The skin picking impact project: Phenomenology, interference, and treatment utilization of pathological skin picking in a population-based sample](http://www.sciencedirect.com/science/article/pii/S0887618510001714). Journal of Anxiety Disorders, 25(1), 88-95.
